@@ -1,0 +1,29 @@
+.infoSection{
+  display: grid;
+  grid-template-columns: 50.75% 49.25%;
+} .infoSection > img {
+  max-width: 100%;
+  height: 100%;
+} .infoSection > div {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  background-color: #D9C8B8;
+}
+
+.infoLandingTextContainer{
+  display: flex;
+} .infoLandingTextContainer > span {
+  font-size: 4rem;
+  line-height: 150%;
+  font-weight: 600;
+
+  margin: 0 50px 0 50px;
+
+  transition: ease-in-out 0.5s;
+
+  text-align: center;
+} .infoLandingTextContainer > span:hover {
+  font-size: 4.25rem;
+}

@@ -1,0 +1,37 @@
+*{
+  color: #3F3F3F;
+  user-select: none;
+}
+
+body{
+  background: #eeebe7;
+}
+
+.appContainer{
+  display: grid;
+  justify-content: center;
+}
+
+.App{
+  width: 92.5vw;
+
+  min-height: 100vh;
+  margin: 0;
+  margin-top: 67px;
+
+  display: grid;
+  grid-template-rows: 1fr auto;
+}
+
+.section{
+  padding: 25px 0 15px 0;
+}
+
+.onAppMountAnimaiton{
+  transform: translateX(-15%);
+}
+
+.flex-center{
+  display: flex;
+  justify-content: center;
+}

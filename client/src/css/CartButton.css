@@ -1,0 +1,34 @@
+.cartButton{
+  width: 175px;
+  height: 35px;
+
+  margin-top: 5px !important;
+} .cartButton:hover{
+  width: 172.5px;
+}
+
+.addButton{
+  background-color: rgb(189, 174, 174) !important;
+}
+
+.removeButton{
+  background-color: #D01919 !important;
+  color: aliceblue !important;
+} .removeButton:hover{
+  background-color: #ac1414 !important;
+}
+
+.removeButtonIcon{
+  display: flex !important;
+  justify-content: center;
+
+  width: 50px;
+} .removeButtonIcon:hover{
+  background-color: #ac1414 !important;
+}
+
+.close{
+  margin: 0 !important;
+}
+
+

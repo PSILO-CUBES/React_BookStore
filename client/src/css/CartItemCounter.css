@@ -1,0 +1,31 @@
+.cartCounterContainer{
+  display: flex;
+  
+  align-items: center;
+}
+
+.cartCounterButton{
+  margin: 0 !important;
+
+  border-radius: 0 !important;
+}
+
+.cartCounterInputContainer{
+  width: 100px;
+}
+
+.cartCounterInput{
+  text-align: center !important;
+
+  border-radius: 0 !important;
+}
+
+.minusButton{
+  border-top-left-radius: .28571429rem !important;
+  border-bottom-left-radius: .28571429rem !important;
+}
+
+.plusButton{
+  border-top-right-radius: .28571429rem !important;
+  border-bottom-right-radius: .28571429rem !important;
+}

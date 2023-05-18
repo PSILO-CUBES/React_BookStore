@@ -1,0 +1,17 @@
+.cartListTableHeaderContainer{
+  display: flex;
+
+  transition: 0.25s;
+
+  padding-bottom: 5px;
+}
+
+.cartListTableHeaderContent{
+  display: grid;
+  grid-template-columns: repeat(5, 20%);
+
+  justify-items: start;
+  align-items: center;
+
+  width: 85vw;
+}

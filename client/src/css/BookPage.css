@@ -1,0 +1,98 @@
+.bookPageContainer{
+  display: grid;
+  grid-template-columns: 25% 75%;
+  margin-bottom: 50px;
+}
+
+.bookPageImageContainer{
+  position: relative;
+
+  display: grid;
+  justify-content: center;
+  align-items: center;
+
+  text-align: center;
+} .bookPageImageContainer > *:nth-child(2){
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 0;
+}
+
+.bookPageImage{
+  height: 500px;
+  margin: 25px;
+  
+  transition: 0.25s ease-in-out;
+
+  box-shadow: 0.5px 0.5px 5px 1px black;
+}.bookPageImage:hover{
+  height: 525px;
+}
+
+.bookPageContentContainer{
+  position: relative;
+
+  display: grid;
+  justify-items: center;
+  align-items: center;
+
+  text-align: center;
+}
+
+.bookPageDataContainer{
+  display: flex;
+
+  height: 500px;
+  width: 100%;
+
+  align-items: center;
+  text-align: center;
+}.bookPageDataContainer > div {
+  padding-top: 5%;
+  width: 100%;
+}
+
+.bookPageDataTypeContainer{
+  display: grid;
+  grid-template-rows: 10% 90%;
+
+  height: 100%;
+} .bookPageDataTypeContainer > * {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+} .bordered > *{
+  width: 100%;
+  padding: 0 10px 0 10px;
+}
+
+.bookPageContentTitle{
+  user-select: text;
+}
+
+.bookPageContentData{
+  font-size: larger;
+}
+
+.bookPageContent{
+  margin: 0 !important;
+}
+
+.bookPageAuthor{
+  user-select: text;
+}
+
+.bookPageCartButton{
+  position: relative;
+  top: 25px;
+
+  margin-top: 15px !important;
+  height: 50px;
+  width: 200px;
+}
+
+.bookPageCartButton:hover{
+  height: 52.5px;
+  width: 202.5px;
+}

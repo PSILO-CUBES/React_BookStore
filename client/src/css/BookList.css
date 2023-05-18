@@ -1,0 +1,34 @@
+.booksContainer{
+  display: grid;
+  justify-items: center;
+  grid-template-columns: repeat(5, 20%);
+
+  transition: 0.25s ease-in-out;
+}
+
+.bookListImg{
+  width: 105%;
+  height: 275px;
+}
+
+.bookListHeaderContainer{
+  display: flex;
+  justify-content: space-between;
+}
+
+.bookListSortByContainer{
+  display: flex;
+  align-items: baseline;
+}
+
+.sortBy{
+  cursor: pointer;
+}
+
+.sortByIcon{
+  cursor: pointer;
+
+  transform: rotateZ(-90deg);
+
+  transition: 0.25s ease-in-out;
+}

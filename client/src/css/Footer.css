@@ -1,0 +1,25 @@
+footer{
+  position: relative;
+  left: 0;
+
+  width: 100vw;
+
+  display: grid;
+  grid-template-columns: repeat(3, 33.33%);
+}
+
+.iconList{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-family: roboto !important;
+}
+
+.footerEndContainer{
+  position: relative;
+  left: -25px;
+
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+}

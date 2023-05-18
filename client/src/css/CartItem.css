@@ -1,0 +1,33 @@
+.cartItemContainer{
+  display: flex;
+
+  transition: 0.25s;
+
+  padding-bottom: 5px;
+}
+
+.cartBookImage{
+  max-width: 100%;
+}
+
+.cartItemContent{
+  display: grid;
+  grid-template-columns: repeat(5, 20%);
+
+  justify-items: start;
+  align-items: center;
+
+  width: 85vw;
+
+  padding-left: 100px;
+}
+
+.cartItemButton{
+  position: relative;
+
+  transform: translateY(50%);
+}
+
+.cartItemPriceContainer{
+  text-align: center;
+}

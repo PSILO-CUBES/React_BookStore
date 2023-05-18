@@ -1,0 +1,8 @@
+.totalPriceContainer{  
+  position: relative;
+  left: 100%;
+  transform: translateX(-25%);
+
+  display: flex;
+  align-items: center;
+}

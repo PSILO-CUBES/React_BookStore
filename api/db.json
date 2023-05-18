@@ -1,0 +1,157 @@
+{
+  "books": [
+    {
+      "title": "1984",
+      "description": "Nineteen Eighty-Four is a dystopian social science fiction novel and cautionary tale written by the English writer George Orwell. It was published on 8 June 1949 by Secker & Warburg as Orwell's ninth and final book completed in his lifetime.",
+      "author": "George Orwell",
+      "inventoryAmount": "80",
+      "price": "12.99",
+      "src": "https://images-na.ssl-images-amazon.com/images/I/91SZSW8qSsL.jpg"
+    },
+    {
+      "title": "Notes from Underground",
+      "description": "Notes from Underground is a novel by Fyodor Dostoevsky, first published in the journal Epoch in 1864. It is a first-person narrative in the form of a ''confession'': the work was originally announced by Dostoevsky in Epoch under the title ''A Confession''.",
+      "author": "Fyodor Dostoyevsky",
+      "inventoryAmount": "30",
+      "price": "16.99",
+      "src": "https://images.penguinrandomhouse.com/cover/9781400041916"
+    },
+    {
+      "title": "The Brothers Karamazov",
+      "description": "The Brothers Karamazov, also translated as The Karamazov Brothers, is the last novel by Russian author Fyodor Dostoevsky. Dostoevsky spent nearly two years writing The Brothers Karamazov, which was published as a serial in The Russian Messenger from January 1879 to November 1880.",
+      "author": "Fyodor Dostoyevsky",
+      "inventoryAmount": "90",
+      "price": "15.99",
+      "src": "https://kbimages1-a.akamaihd.net/05b4b001-8c6a-4c2b-909a-31cb8c34c9e2/1200/1200/False/the-brothers-karamazov-19.jpg"
+    },
+    {
+      "title": "Brave New World",
+      "description": "Brave New World is a dystopian novel by English author Aldous Huxley, written in 1931 and published in 1932.",
+      "author": "Aldous Huxley",
+      "inventoryAmount": "20",
+      "price": "11.99",
+      "src": "https://dynamic.indigoimages.ca/v1/books/books/030735654x/1.jpg?quality=10&sale=0"
+    },
+    {
+      "title": "The Tempest",
+      "description": "The Tempest is a play by English playwright William Shakespeare, probably written in 1610–1611, and thought to be one of the last plays that Shakespeare wrote alone.",
+      "author": "William Shakespeare",
+      "inventoryAmount": "90",
+      "price": "13.99",
+      "src": "https://kbimages1-a.akamaihd.net/a78ec6cb-b9ef-4b27-b27e-97a49dbf372d/1200/1200/False/the-tempest-103.jpg"
+    },
+    {
+      "title": "The Stranger",
+      "description": "The Stranger, also published in English as The Outsider, is a 1942 novella by French author Albert Camus. Its theme and outlook are often cited as examples of Camus' philosophy, absurdism, coupled with existentialism; though Camus personally rejected the latter label.",
+      "author": "Albert Camus",
+      "inventoryAmount": "50",
+      "price": "12.99",
+      "src": "https://images-na.ssl-images-amazon.com/images/I/81GjCVSEDAL.jpg"
+    },
+    {
+      "title": "Corpus Hermeticum",
+      "author": "Hermes Trismegistus",
+      "description": "The Corpus Hermeticum is a collection of 17 Koine Greek pseudepigraphical writings whose authorship is traditionally attributed to the legendary Hellenistic figure Hermes Trismegistus, a syncretic combination of the Greek god Hermes and the Egyptian god Thoth.",
+      "inventoryAmount": "60",
+      "price": "21.99",
+      "src": "https://images-na.ssl-images-amazon.com/images/I/71-j6yox9ZL.jpg"
+    },
+    {
+      "title": "The Sacred Mushroom And The Cross",
+      "description": "The Sacred Mushroom and the Cross: A Study of the Nature and Origins of Christianity Within the Fertility Cults of the Ancient Near East is a 1970 book about the linguistics of early Christianity and fertility cults in the Ancient Near East. It was written by John Marco Allegro.",
+      "author": "John M. Allegro",
+      "inventoryAmount": "10",
+      "price": "14.99",
+      "src": "http://prodimage.images-bn.com/pimages/9780982556276_p0_v3_s1200x630.jpg"
+    },
+    {
+      "title": "Atlas Shurgged",
+      "description": "Atlas Shrugged is a 1957 novel by Ayn Rand. Her fourth and final novel published during her lifetime, it was also her longest, and the one she considered to be her magnum opus in the realm of fiction writing.",
+      "author": "Ayn Rand",
+      "inventoryAmount": "10",
+      "price": "24.99",
+      "src": "https://images-na.ssl-images-amazon.com/images/I/81-N8W4ZgUL.jpg"
+    },
+    {
+      "title": "Fahrenheit 451",
+      "description": "Fahrenheit 451 is a 1953 dystopian novel by American writer Ray Bradbury. Often regarded as one of his best works, Fahrenheit 451 presents an American society where books have been outlawed and ''firemen'' burn any that are found.",
+      "author": "Ray Bradbury",
+      "inventoryAmount": "90",
+      "price": "14.99",
+      "src": "https://images-na.ssl-images-amazon.com/images/I/71OFqSRFDgL.jpg"
+    },
+    {
+      "title": "The Giver",
+      "description": "The Giver is a 1993 American young adult dystopian novel written by Lois Lowry, set in a society which at first appears to be utopian but is revealed to be dystopian as the story progresses.",
+      "author": "Lois Lowry",
+      "inventoryAmount": "90",
+      "price": "14.99",
+      "src": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1342493368l/3636.jpg"
+    },
+    {
+      "title": "Don Quixote",
+      "description": "Don Quixote is a Spanish epic novel by Miguel de Cervantes. Originally published in two parts, in 1605 and 1615, its full title is The Ingenious Gentleman Don Quixote of La Mancha or, in Spanish, El ingenioso hidalgo don Quixote de la Mancha.",
+      "author": "Gustave Doré",
+      "inventoryAmount": "90",
+      "price": "17.99",
+      "src": "https://www.gutenberg.org/files/996/996-h/images/cover.jpg"
+    }
+  ],
+  "cartId": [
+    {
+      "id": "114762096393256676813",
+      "cart": [
+        {
+          "title": "Notes from Underground",
+          "description": "Notes from Underground is a novel by Fyodor Dostoevsky, first published in the journal Epoch in 1864. It is a first-person narrative in the form of a ''confession'': the work was originally announced by Dostoevsky in Epoch under the title ''A Confession''.",
+          "author": "Fyodor Dostoyevsky",
+          "inventoryAmount": "30",
+          "price": "16.99",
+          "src": "https://images.penguinrandomhouse.com/cover/9781400041916",
+          "cartAmount": 1,
+          "subtotal": "16.99"
+        },
+        {
+          "title": "Brave New World",
+          "description": "Brave New World is a dystopian novel by English author Aldous Huxley, written in 1931 and published in 1932.",
+          "author": "Aldous Huxley",
+          "inventoryAmount": "20",
+          "price": "11.99",
+          "src": "https://dynamic.indigoimages.ca/v1/books/books/030735654x/1.jpg?quality=10&sale=0",
+          "cartAmount": 1,
+          "subtotal": "11.99"
+        },
+        {
+          "title": "The Tempest",
+          "description": "The Tempest is a play by English playwright William Shakespeare, probably written in 1610–1611, and thought to be one of the last plays that Shakespeare wrote alone.",
+          "author": "William Shakespeare",
+          "inventoryAmount": "90",
+          "price": "13.99",
+          "src": "https://kbimages1-a.akamaihd.net/a78ec6cb-b9ef-4b27-b27e-97a49dbf372d/1200/1200/False/the-tempest-103.jpg",
+          "cartAmount": 1,
+          "subtotal": "13.99"
+        },
+        {
+          "title": "The Brothers Karamazov",
+          "description": "The Brothers Karamazov, also translated as The Karamazov Brothers, is the last novel by Russian author Fyodor Dostoevsky. Dostoevsky spent nearly two years writing The Brothers Karamazov, which was published as a serial in The Russian Messenger from January 1879 to November 1880.",
+          "author": "Fyodor Dostoyevsky",
+          "inventoryAmount": "90",
+          "price": "15.99",
+          "src": "https://kbimages1-a.akamaihd.net/05b4b001-8c6a-4c2b-909a-31cb8c34c9e2/1200/1200/False/the-brothers-karamazov-19.jpg",
+          "cartAmount": 1,
+          "subtotal": "15.99"
+        },
+        {
+          "title": "1984",
+          "description": "Nineteen Eighty-Four is a dystopian social science fiction novel and cautionary tale written by the English writer George Orwell. It was published on 8 June 1949 by Secker & Warburg as Orwell's ninth and final book completed in his lifetime.",
+          "author": "George Orwell",
+          "inventoryAmount": "80",
+          "price": "12.99",
+          "src": "https://images-na.ssl-images-amazon.com/images/I/91SZSW8qSsL.jpg",
+          "cartAmount": 1,
+          "subtotal": "12.99"
+        }
+      ]
+    }
+  ]
+}

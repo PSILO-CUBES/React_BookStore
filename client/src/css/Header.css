@@ -1,0 +1,67 @@
+header{
+  position: fixed;
+  top: 0;
+  left: 0;
+
+  display: grid;
+  grid-template-columns: repeat(3, 33.33%);
+  
+  width: 100vw;
+
+  background: #eeebe7;
+
+  z-index: 1;
+}
+
+.logoContainer{
+  position: relative;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  right: 0;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.logoLink{
+  transform: translateX(-75%);
+}
+
+.logo{
+  transition: 0.25s ease-in-out;
+}
+
+.logo:hover{
+  transform: translateY(5%);
+}
+
+.navButtonsContainer{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.headerEndContainer{
+  padding-right: 100px;
+}
+
+.headerEndContainer{
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+}
+
+.googleAuthContainer{
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+
+  margin-right: 25px;
+}
+
+.hoverExpand:hover{
+  font-size: 1.25rem;
+  transition: 0.5s;
+}

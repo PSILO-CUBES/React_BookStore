@@ -1,0 +1,37 @@
+.bookItem{
+  display: grid;
+  justify-items: center;
+  align-items: center;
+
+  margin: 15px 0 10px 0;
+
+  transition: 0.25s ease-in-out;
+}
+
+.bookImgContainer{
+  display: grid;
+  justify-items: center;
+  align-items: center;
+}
+
+.bookImg{
+  width: 200px;
+  height: 315px;
+
+  box-shadow: 0.5px 0.5px 5px 1px black;
+
+  transition: 0.5s;
+}
+
+.bookImg:hover{
+  width: 205px;
+  height: 325px;
+}
+
+.bookInfoContainer{
+  display: grid;
+  grid-template-rows: repeat(3, 33%);
+  text-align: center;
+  
+  padding-top: 5px;
+}

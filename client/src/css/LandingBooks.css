@@ -1,0 +1,25 @@
+.landingLowerGridContainer{
+  display: grid;
+  grid-template-columns: repeat(5, 20%);
+
+  justify-content: center;
+  align-items: center;
+
+  transition: 0.25s ease-in-out;
+}
+
+.landingTextLowerContainer{
+  padding: 50px 0 5px 0;
+}
+
+.landingBooksContent{
+  height: 85%;
+  width: 85%;
+}
+
+.landingBooksInfoContainer{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+

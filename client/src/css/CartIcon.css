@@ -1,0 +1,21 @@
+.cartIconContainer{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.cartIcon{
+  position: relative;
+}
+
+.cartIconAmount{
+  position: relative;
+  left: -47.5%;
+  top: -17.5px;
+
+  font-size: smaller;
+
+  display: inline-block;
+
+  color: whitesmoke;
+}

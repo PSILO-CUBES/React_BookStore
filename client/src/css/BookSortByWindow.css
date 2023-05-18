@@ -1,0 +1,50 @@
+.window{
+  position: fixed;
+  right: 25px;
+
+  margin-top: 30px;
+  padding-top: 15px;
+  
+  z-index: 1;
+
+  background-color: rgba(211, 211, 211, 0.85);
+  border-radius: 5px;
+
+  width: 150px;
+}
+
+.overlay{
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+
+  z-index: -1;
+
+  display: none;
+
+  height: 100vh;
+  width: 100vw;
+
+  background-color: rgba(128, 128, 128, 0.25);
+}
+
+.closeWindow{
+  width: 100%;
+  margin-top: 15px !important;
+
+  background-color: transparent !important;
+}
+
+.windowContainer{
+  text-align: center;
+}
+
+.sortByCategory{
+  cursor: pointer;
+}
+
+.sortByCategory:hover{
+  color: grey
+}
